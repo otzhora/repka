@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/proj.dir/main.cpp.o CMakeFiles/proj.dir/classes.cpp.o CMakeFiles/proj.dir/func.cpp.o  -o proj 

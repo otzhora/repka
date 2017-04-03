@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yriy/CLionProjects/Repo/proj/classes.cpp
+iostream
+-
+classes.h
+/home/yriy/CLionProjects/Repo/proj/classes.h
+
+/home/yriy/CLionProjects/Repo/proj/classes.h
+string
+-
+vector
+-
+
+/home/yriy/CLionProjects/Repo/proj/func.cpp
+func.h
+/home/yriy/CLionProjects/Repo/proj/func.h
+
+/home/yriy/CLionProjects/Repo/proj/func.h
+vector
+-
+string
+-
+
+/home/yriy/CLionProjects/Repo/proj/main.cpp
+iostream
+-
+classes.h
+/home/yriy/CLionProjects/Repo/proj/classes.h
+func.h
+/home/yriy/CLionProjects/Repo/proj/func.h
+
